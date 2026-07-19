@@ -1,5 +1,5 @@
 package Chapter_14_Java_for_Test_Automation;
-/* Exercise 11 - Coin Toss Game:
+/* Exercise 12 - Coin Toss Game:
 First Class - Create a Coin class which has the following:
 • a field called side
 • encapsulation
