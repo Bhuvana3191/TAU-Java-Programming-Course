@@ -1,5 +1,5 @@
 package Chapter_14_Java_for_Test_Automation;
-/* Exercise 11 - Coin Toss Game:
+/* Exercise 12 - Coin Toss Game:
 Third Class - Create a Coin TossGame class which:
 • creates two Players asks Player 1 to choose Heads or Tails
 • ensures that Player 1's guess is valid

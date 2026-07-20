@@ -1,5 +1,5 @@
 package Chapter_14_Java_for_Test_Automation;
-/* Exercise 11 - Coin Toss Game:
+/* Exercise 12 - Coin Toss Game:
 Second Class - Create a Player class which has the following:
 • fields called name and guess
 • encapsulation
