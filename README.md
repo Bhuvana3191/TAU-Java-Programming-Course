@@ -89,7 +89,7 @@ src/
 
 Software Tester transitioning from Manual & Automation Testing into a stronger Java + Selenium-based automation career. This repository is part of my ongoing learning journey — next steps include Selenium WebDriver, TestNG, and Cucumber BDD.
 
-📫 Connect with me on [LinkedIn]: https://www.linkedin.com/in/bhuvaneswari-kalyanaraman/
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhuvaneswari-kalyanaraman/)
 
 ---
 
