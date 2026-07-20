@@ -8,12 +8,12 @@ This repository documents my journey from Java fundamentals through advanced Obj
 
 ## 🎓 Certificate
 
-**Course:** Java Programming
-**Chapters Completed:** 30
-**Course Length:** 5 hours 55 minutes
-**Instructor:** Angie Jones
-**Platform:** Test Automation University (Powered by Applitools)
-**URL:** https://testautomationu.applitools.com/certificate/?id=262cd1dc
+- **Course:** Java Programming
+- **Chapters Completed:** 30
+- **Course Length:** 5 hours 55 minutes
+- **Instructor:** Angie Jones
+- **Platform:** Test Automation University (Powered by Applitools)
+- **URL:** https://testautomationu.applitools.com/certificate/?id=262cd1dc
 
 ---
 
