@@ -38,19 +38,21 @@ This repository documents my journey from Java fundamentals through advanced Obj
 ---
 
 ## 💻 Key Hands-On Exercises
-#	Exercise	Chapter	Concepts Demonstrated
-1	Mad Libs	Ch 2 — Java Fundamentals	Scanner input, String concatenation
-2	Change For A Dollar Game	Ch 3 — Decision Structures	Conditionals, loops
-3	Roll The Die Game	Ch 4 — Repetition Structures	Loops, Random
-4	Phone Bill Calculator	Ch 5 — Methods & Variable Scope	Methods, parameters, variable scope
-5	Phone Bill / Phone Bill Calculator (OOP)	Ch 6 — Classes & Objects	Classes, multiple constructors, encapsulation
-6	Day of the Week	Ch 7 — Arrays	Arrays, Scanner input, boundary testing
-7	Password Validator	Ch 8 — Data Types & Strings	String methods, do-while loops, multi-rule validation
-8	Cake! Cake! Cake! (Cake, BirthdayCake, WeddingCake, TasteTester)	Ch 9 — Inheritance	Inheritance, constructor chaining with super()
-9	Farm (Animal, Duck, Pig)	Ch 11 — Abstraction & Interfaces	Abstract classes, abstract vs. concrete methods
-10	Gradebook (TestResults, GradeBook)	Ch 12 — Collections	Map traversal, comparing values across two collections
-11	Divide By Zero	Ch 13 — Exceptions	try/catch/finally, stack traces
-12	Coin Toss Game (Coin, Player, CoinTossGame)	Ch 14 — Java for Test Automation	Multi-class design, constants, Random, encapsulation, input validation
+
+| # | Exercise | Chapter | Concepts Demonstrated |
+|---|---|---|---|
+| 1 | **Mad Libs** | Ch 2 — Java Fundamentals | Scanner input, String concatenation |
+| 2 | **Change For A Dollar Game** | Ch 3 — Decision Structures | Conditionals, loops |
+| 3 | **Roll The Die Game** | Ch 4 — Repetition Structures | Loops, `Random` |
+| 4 | **Phone Bill Calculator** | Ch 5 — Methods & Variable Scope | Methods, parameters, variable scope |
+| 5 | **Phone Bill / Phone Bill Calculator (OOP)** | Ch 6 — Classes & Objects | Classes, multiple constructors, encapsulation |
+| 6 | **Day of the Week** | Ch 7 — Arrays | Arrays, Scanner input, boundary testing |
+| 7 | **Password Validator** | Ch 8 — Data Types & Strings | String methods, `do-while` loops, multi-rule validation |
+| 8 | **Cake! Cake! Cake!** (Cake, BirthdayCake, WeddingCake, TasteTester) | Ch 9 — Inheritance | Inheritance, constructor chaining with `super()` |
+| 9 | **Farm** (Animal, Duck, Pig) | Ch 11 — Abstraction & Interfaces | Abstract classes, abstract vs. concrete methods |
+| 10 | **Gradebook** (TestResults, GradeBook) | Ch 12 — Collections | `Map` traversal, comparing values across two collections |
+| 11 | **Divide By Zero** | Ch 13 — Exceptions | `try`/`catch`/`finally`, stack traces |
+| 12 | **Coin Toss Game** (Coin, Player, CoinTossGame) | Ch 14 — Java for Test Automation | Multi-class design, constants, `Random`, encapsulation, input validation |
 
 ---
 
@@ -87,7 +89,7 @@ src/
 
 Software Tester transitioning from Manual & Automation Testing into a stronger Java + Selenium-based automation career. This repository is part of my ongoing learning journey — next steps include Selenium WebDriver, TestNG, and Cucumber BDD.
 
-📫 Connect with me on [LinkedIn]https://www.linkedin.com/in/bhuvaneswari-kalyanaraman/
+📫 Connect with me on [LinkedIn]: https://www.linkedin.com/in/bhuvaneswari-kalyanaraman/
 
 ---
 
