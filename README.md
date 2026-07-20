@@ -24,7 +24,7 @@ This repository documents my journey from Java fundamentals through advanced Obj
 | **Java Fundamentals** | Variables, data types, operators, conditionals, loops |
 | **Methods & Scope** | Method creation, parameters, return types, variable scope |
 | **Classes & Objects** | Encapsulation, constructors, getters/setters |
-| **Arrays** | 1D & 2D arrays, searching, sorting, common array operations |
+| **Arrays** | 1D arrays, searching, sorting, common array operations |
 | **Data Types & Strings** | Static vs. dynamic typing, String manipulation methods |
 | **Inheritance** | `extends`, constructor chaining, `super()`, access modifiers |
 | **Overriding & Overloading** | `@Override`, method signatures, polymorphic behavior |
